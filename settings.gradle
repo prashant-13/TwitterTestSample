@@ -1,0 +1,2 @@
+rootProject.name='TwitterTestSample'
+include ':app'
