@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TwitterTestSample</string>
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">HM1lI2OxCGoi6eTamE7uefOTh</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Sy9TJHKU5kJZWHlLYlHLHIheZK3e2jTScOFymVLi2p39zp0cFy</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">HUSKNONPIXNXJNOjjsondjnso</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">TSCFUVhbsbius564sdgyiansm5ascguvnacsjb5cacsvuvkcjabs</string>
 </resources>
